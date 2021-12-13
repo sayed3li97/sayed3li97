@@ -2,9 +2,9 @@
 
 ### 🤝 Connect with me:
 
-<a href="https://twitter.com/sayed3li97"><img align="left" src="images\twitter.png" alt="Sayed Ali Alkamel | Twitter" width="21px"/></a>
-<a href="https://www.instagram.com/sayed3li97/"><img align="left" src="images\instagram.png" alt="Sayed Ali Alkamel | Instagram" width="21px"/></a>
-<a href="https://www.linkedin.com/in/sayed-ali-alkamel/"><img align="left" src="images\linkedin.png" alt="Sayed Ali Alkamel | Linkedin" width="21px"/></a>
+<a href="https://twitter.com/sayed3li97"><img align="left" src="images\twitter.png" alt="Sayed Ali Alkamel | Twitter" width="31px"/></a>
+<a href="https://www.instagram.com/sayed3li97/"><img align="left" src="images\instagram.png" alt="Sayed Ali Alkamel | Instagram" width="31px"/></a>
+<a href="https://www.linkedin.com/in/sayed-ali-alkamel/"><img align="left" src="images\linkedin.png" alt="Sayed Ali Alkamel | Linkedin" width="31px"/></a>
 <!--
 **sayed3li97/sayed3li97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
