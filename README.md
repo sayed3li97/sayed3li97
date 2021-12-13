@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+World+%F0%9F%91%8B)](https://git.io/typing-svg) 
 
 <!--
 **sayed3li97/sayed3li97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
