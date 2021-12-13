@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+World+%F0%9F%91%8B)](https://git.io/typing-svg) 
 
+Mobile Apps Developer 📱
+From Bahrain 🇧🇭
 ### 🤝 Connect with me:
 
 <a href="https://twitter.com/sayed3li97"><img align="left" src="images\twitter.png" alt="Sayed Ali Alkamel | Twitter" width="31px"/></a>
