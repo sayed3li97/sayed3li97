@@ -19,11 +19,10 @@ Passionate about crafting impactful solutions through technology and creating in
 
 ### 🤝 Connect with Me
 
-[![Twitter](images/twitter.png)](https://twitter.com/sayed3li97)
-[![Instagram](images/instagram.png)](https://www.instagram.com/sayed3li97/)
-[![LinkedIn](images/linkedin.png)](https://www.linkedin.com/in/sayed-ali-alkamel/)
-[![Website](images/globe.png)](https://sayedalialkamel.com)
-
+<a href="https://twitter.com/sayed3li97" target="_blank"><img align="center" src="images/twitter.png" alt="Sayed Ali Alkamel | Twitter" width="40px"/></a>
+<a href="https://www.instagram.com/sayed3li97/" target="_blank"><img align="center" src="images/instagram.png" alt="Sayed Ali Alkamel | Instagram" width="40px"/></a>
+<a href="https://www.linkedin.com/in/sayed-ali-alkamel/" target="_blank"><img align="center" src="images/linkedin.png" alt="Sayed Ali Alkamel | LinkedIn" width="40px"/></a>
+<a href="https://sayedalialkamel.com" target="_blank"><img align="center" src="images/globe.png" alt="Sayed Ali Alkamel | Website" width="40px"/></a>
 ---
 
 ### 📫 Contact Me
