@@ -19,21 +19,12 @@ Passionate about crafting impactful solutions through technology and creating in
 
 ### 🤝 Connect with Me
 
-<div align="center">
-  <a href="https://twitter.com/sayed3li97" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://www.instagram.com/sayed3li97/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.linkedin.com/in/sayed-ali-alkamel/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://sayedalialkamel.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website">
-  </a>
-</div>
-
+<a href="https://twitter.com/sayed3li97" target="_blank"><img align="center" src="images/twitter.png" alt="Sayed Ali Alkamel | Twitter" width="40px"/></a>
+<a href="https://www.instagram.com/sayed3li97/" target="_blank"><img align="center" src="images/instagram.png" alt="Sayed Ali Alkamel | Instagram" width="40px"/></a>
+<a href="https://www.linkedin.com/in/sayed-ali-alkamel/" target="_blank"><img align="center" src="images/linkedin.png" alt="Sayed Ali Alkamel | LinkedIn" width="40px"/></a>
+<a href="https://sayedalialkamel.com" target="_blank"><img align="center" src="images/website.png" alt="Sayed Ali Alkamel | Website" width="40px"/></a>
+<a href="https://medium.com/@sayedali.alkamel" target="_blank"><img align="center" src="images/medium.png" alt="Sayed Ali Alkamel | Medium" width="40px"/></a>
+<a href="https://sayedalialkamel.com" target="_blank"><img align="center" src="images/globe.png" alt="Sayed Ali Alkamel | Website" width="40px"/></a>
 ---
 
 ### 📫 Contact Me
