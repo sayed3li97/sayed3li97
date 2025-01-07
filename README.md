@@ -3,10 +3,9 @@
 ## 👨‍💻 Sayed Ali Alkamel  
 
 **Software Engineer** | **Mobile Apps Developer** 📱  
-Passionate about crafting impactful solutions through technology and creating innovative apps for a better world.
-*Passionate about crafting impactful solutions and innovative apps that make a difference.*
+*Passionate about crafting impactful solutions through technology and creating innovative apps for a better world.*
 
-[![GitHub Follow](https://img.shields.io/github/followers/sayed3li?label=Follow&style=social)](https://github.com/sayed3li)
+[![GitHub Follow](https://img.shields.io/github/followers/sayed3li97?label=Follow&style=social)](https://github.com/sayed3li97)
 ---
 
 ### 🌍 About Me
