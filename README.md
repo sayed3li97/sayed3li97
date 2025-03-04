@@ -51,7 +51,7 @@
 ```yaml
 Languages:  
   - Dart  
-  - Java  
+  - Java/Kotlin  
   - Python  
   - JavaScript
 
