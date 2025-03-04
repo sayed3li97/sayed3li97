@@ -33,7 +33,7 @@
   <a href="https://sayedalialkamel.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website">
   </a>
-  <a href="https://medium.com/@sayedali.alkamel" target="_blank">
+  <a href="https://medium.com/@sayed3li97" target="_blank">
     <img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium">
   </a>
 </div>
