@@ -45,17 +45,17 @@
 ### `~/whoami`
 
 ```txt
-Leading the platforms behind modern banking, and building the on-device AI that comes next.
+I run the team behind a bank's mobile apps, and build the on-device AI I want inside them next.
 ```
 
-I am a **Google Developer Expert** and engineering leader. Today I lead **Digital Application Platforms at Oman Housing Bank**, after 5+ years building in regulated fintech at BNP Paribas, Tamkeen, and ila Bank, where the apps I shipped crossed **2.5M+ downloads**. My focus now is the next chapter of banking: **on-device AI, generative UI, and agentic workflows** running inside apps that cannot afford to be slow, unsafe, or offline.
+I am a Google Developer Expert in Flutter and Dart, and I lead the Digital Application Platforms team at **Oman Housing Bank**. Before that I spent 5+ years building in regulated fintech at BNP Paribas, Tamkeen, and ila Bank, where the apps I worked on passed **2.5M+ downloads**. Most of my attention now goes to on-device AI and generative UI: getting models and adaptive interfaces to run inside banking apps that people need to be fast and to keep working offline, without sending their data anywhere.
 
-Beyond the bank, I founded and lead **[Flutter MENA](https://sayedalialkamel.com)**, the largest Flutter community across the Middle East and North Africa, and I teach on stages worldwide. Reaching **22,000+ developers in 22+ countries** taught me that the fastest way to lift an entire region is to build in the open.
+Outside work I founded and run **[Flutter MENA](https://sayedalialkamel.com)**, the largest Flutter community in the Middle East and North Africa, and I speak at events across the region and beyond. I have taught **22,000+ developers in 22+ countries** so far. That part of the job is the one I would keep even if I dropped everything else.
 
-- **Now:** taking on-device LLMs and generative UI into production banking, and reverse-engineering the mobile stack for speed and safety
-- **Building:** open-source Flutter packages and on-device AI apps that respect your privacy and your battery
-- **Sharing:** talks, articles, and code, because a result you cannot reproduce is just a rumor
-- **Open to:** senior mobile and engineering leadership roles, developer advocacy, and speaking on AI-native mobile
+- **Now:** getting on-device LLMs and generative UI into production at the bank, and taking the mobile stack apart to make it faster and safer
+- **Building:** open-source Flutter packages, and small on-device AI apps that do not drain your battery or leak your data
+- **Sharing:** talks, articles, and open code, because I do not trust a result I cannot reproduce
+- **Open to:** engineering leadership and senior mobile roles, developer advocacy, and speaking about on-device AI
 
 <p align="center">
   <a href="https://sayedalialkamel.com"><img src="https://img.shields.io/badge/Portfolio-sayedalialkamel.com-0d1117?style=for-the-badge&logo=safari&logoColor=00b4ff&labelColor=0d1117" alt="Website" /></a>
@@ -83,7 +83,7 @@ Beyond the bank, I founded and lead **[Flutter MENA](https://sayedalialkamel.com
   </tr>
 </table>
 
-<p align="center"><sub>Measured wins from production work: <b>78% faster</b> response times and <b>5x</b> load capacity on systems serving millions.</sub></p>
+<p align="center"><sub>Numbers I can actually measure from production work: <b>78% faster</b> responses and <b>5x</b> the load capacity on systems serving millions of users.</sub></p>
 
 ---
 
@@ -155,7 +155,7 @@ Beyond the bank, I founded and lead **[Flutter MENA](https://sayedalialkamel.com
 <!-- ============================ PROJECTS ============================ -->
 ### `featured --ai`
 
-On-device first. Private by default. Small, fast, and reproducible.
+Most of these run on the device itself and keep your data on your phone. I try to keep them small enough to be worth shipping, not just demos.
 
 | Project | What it does |
 | :-- | :-- |
@@ -258,7 +258,7 @@ jobs:
 <!-- ============================ WRITING & SPEAKING ============================ -->
 ### `writing --and --speaking`
 
-I write about Flutter, on-device AI, agentic engineering, and the honest reality of shipping software. Recent pieces cover vibe coding, AI agent skills for Flutter, and what actually changes in the modern SDLC.
+I write about Flutter, on-device AI, and what agentic tools actually change about shipping software day to day. Recent posts get into vibe coding, building agent skills for Flutter, and where the modern SDLC really is and is not different.
 
 <p align="center">
   <a href="https://dev.to/sayed_ali_alkamel"><img src="https://img.shields.io/badge/Read_on_Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
@@ -271,7 +271,7 @@ I write about Flutter, on-device AI, agentic engineering, and the honest reality
 <!-- ============================ CONNECT / CTA ============================ -->
 ### `let's --connect`
 
-I am open to senior mobile roles, engineering leadership, and developer advocacy. I reply within a few days.
+I am open to engineering leadership and senior mobile roles, and to developer advocacy work. I usually reply within a few days.
 
 <p align="center">
   <a href="https://sayedalialkamel.com"><img src="https://img.shields.io/badge/Start_a_conversation-sayedalialkamel.com-00b4ff?style=for-the-badge&logo=minutemailer&logoColor=white&labelColor=0d1117" alt="Contact" /></a>
